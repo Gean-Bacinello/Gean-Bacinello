@@ -1,4 +1,4 @@
-﻿![Header Azul Escuro](https://capsule-render.vercel.app/api?type=waving&height=110&color=2e3440)
+﻿![Header Preto](https://capsule-render.vercel.app/api?type=waving&height=110&color=000000)
 
 <p align="center">
   <img src="assets/fundo.png" alt="Banner" />
@@ -18,7 +18,6 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
-
   <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/activity-graph-output/activity-graph.svg?radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -59,4 +58,3 @@
   <a href="#" style="display: inline-block; padding: 0 22px;"><img src="assets/instagram.svg" alt="Instagram" width="20" height="20" style="vertical-align: middle;" /></a>
 </p>
 
-![Footer Azul Escuro](https://capsule-render.vercel.app/api?type=waving&height=110&color=2e3440&section=footer)
