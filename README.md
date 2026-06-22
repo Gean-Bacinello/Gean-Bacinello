@@ -1,9 +1,24 @@
 ﻿![Header Preto](https://capsule-render.vercel.app/api?type=waving&height=110&color=000000)
 
-<p align="center">
-  <img src="assets/fundo.png" width="800" alt="Banner" />
-</p>
+<br>
 
+<div align="center">
+  <img align="center" height="150" src="assets/imagesGojo.jpg" />
+</div>
+
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Gean Bacinello</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=88C0D0&width=435&lines=I+am+from+Brazil;Be+welcome!;I+enjoy+developing+software+and+cybersecurity." alt="Typing SVG" "/>
+</div>
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
 
@@ -14,8 +29,8 @@
 
 --------------------------------------------------------------------------------
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" width="100%" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" height="150" width="100%" alt="languages graph" />
   <br><br>
   </div>
 
