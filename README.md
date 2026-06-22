@@ -1,4 +1,4 @@
-﻿![Header Azul Claro](https://capsule-render.vercel.app/api?type=waving&height=110&color=88C0D0&text=Gean-Bacinello&fontSize=30&textColor=333333&desc=Developer%20%26%20Network%20Tech&descSize=12)
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=88C0D0&text=Gean-Bacinello&fontSize=30&textColor=333333&desc=Developer%20%26%20Network%20Tech&descSize=12" alt="Header Azul Claro" />
 
 <br>
 
@@ -17,7 +17,8 @@
 
 <div align="center" width="100%">
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=88C0D0&width=435&lines=I+am+from+Brazil;Be+welcome!;I+enjoy+developing+software+and+cybersecurity.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=I+am+from+Brazil;Be+welcome!;I+enjoy+developing+software+and+cybersecurity." alt="Typing SVG" /></a>
+
 </div>
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
@@ -29,8 +30,8 @@
 ---
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" width="48%"   alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" width="48%"  alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" width="28%"   alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" width="28%"  alt="languages graph" />
   <br><br>
   </div>
 
@@ -81,4 +82,4 @@
 </p>
 
 
-![Footer Azul Claro](https://capsule-render.vercel.app/api?type=waving&height=110&color=88C0D0&text=Gean-Bacinello&fontSize=30&textColor=333333&desc=Developer%20%26%20Network%20Tech&descSize=12&section=footer&reversal=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=88C0D0&text=Gean-Bacinello&fontSize=30&textColor=333333&desc=Developer%20%26%20Network%20Tech&descSize=12&section=footer&reversal=true" alt="Footer Azul Claro" />
