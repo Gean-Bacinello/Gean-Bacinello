@@ -80,4 +80,5 @@
   <a href="#" style="display: inline-block; padding: 0 22px;"><img src="assets/instagram.svg" alt="Instagram" width="20" height="20" style="vertical-align: middle;" /></a>
 </p>
 
-![Footer Azul Claro Invertido](https://capsule-render.vercel.app/api?type=waving&height=110&color=88C0D0&text=Gean-Bacinello&fontSize=30&textColor=333333&desc=Developer%20%26%20Network%20Tech&descSize=12&section=footer&reversal=true)
+
+![Footer Azul Claro](https://capsule-render.vercel.app/api?type=waving&height=110&color=88C0D0&text=Gean-Bacinello&fontSize=30&textColor=333333&desc=Developer%20%26%20Network%20Tech&descSize=12&section=footer&reversal=true)
