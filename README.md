@@ -1,58 +1,62 @@
-<h2 align="left">Bem Vindo, eu sou Gean!</h2>
+﻿![Header Azul Escuro](https://capsule-render.vercel.app/api?type=waving&height=110&color=2e3440)
 
-###
+<p align="center">
+  <img src="assets/fundo.png" alt="Banner" />
+</p>
 
-<h2 align="left">Techs</h2>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
+
+<img align="left" src="assets/brain.png" alt="Ilustração em halftone de um cérebro" width="180" style="margin-right: 20px; margin-bottom: 8px;" />
+
+<p>Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em sistemas backend. Possuo experiência na criação de aplicações utilizando PHP, Laravel e Java, além de conhecimentos sólidos em infraestrutura, englobando o gerenciamento de servidores e ambientes Linux. Atualmente, aprofundo meus estudos no ecossistema Java e no versionamento com Git, aplicando meu aprendizado no desenvolvimento de projetos reais.</p>
+
+
+
+--------------------------------------------------------------------------------
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/activity-graph-output/activity-graph.svg?radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gean-Bacinello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gean-Bacinello&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gean-Bacinello&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=false" height="265" alt="activity-graph graph"  />
+-----------------------------------------------------------------------------------
+
+<div style="clear: both;"></div>
+
+
+<h2 style="border-bottom: none; padding-bottom: 0;">Stack e ferramentas</h2>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=black" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&color=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&color=black" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=black" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=black" alt="Docker" />
+  <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white&color=black" alt="Neovim" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=black" alt="VS Code" />
+</p>
+
+
+---
+
+<div>
+<h2 style="border-bottom: none; padding-bottom: 0;">Aprendizado e contato</h2>
+
+<p>Sigo  <strong> estudando </strong> e testando ideias . Se algo aqui te parecer útil ou quiser sugerir melhoria, issue ou PR são bem-vindos.</p>
 </div>
 
-###
 
-<h2 align="left"></h2>
+<p align="center">
+  <a href="#" style="display: inline-block; padding: 0 22px;"><img src="assets/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;" /></a>
+  <a href="#" style="display: inline-block; padding: 0 22px;"><img src="assets/github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle;" /></a>
+  <a href="#" style="display: inline-block; padding: 0 22px;"><img src="assets/instagram.svg" alt="Instagram" width="20" height="20" style="vertical-align: middle;" /></a>
+</p>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gean-corr%C3%AAa-bacinello/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:geancb79@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Gean-Bacinello.Gean-Bacinello&right_color=darkblue&left_text=Visitantes"  />
-
-###
+![Footer Azul Escuro](https://capsule-render.vercel.app/api?type=waving&height=110&color=2e3440&section=footer)
