@@ -1,9 +1,9 @@
-﻿![Header Preto](https://capsule-render.vercel.app/api?type=waving&height=110&color=000000)
+﻿![Header Azul Claro](https://capsule-render.vercel.app/api?type=waving&height=110&color=88C0D0&text=Gean-Bacinello&fontSize=30&textColor=333333&desc=Developer%20%26%20Network%20Tech&descSize=12)
 
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="assets/imagesGojo.jpg" />
+  <img align="center" height="150" src="assets/imagesGojo.png" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <div align="center" width="100%">
   
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=88C0D0&width=435&lines=I+am+from+Brazil;Be+welcome!;I+enjoy+developing+software+and+cybersecurity." alt="Typing SVG" "/>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=88C0D0&width=435&lines=I+am+from+Brazil;Be+welcome!;I+enjoy+developing+software+and+cybersecurity.)](https://git.io/typing-svg)
 </div>
 
 <h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
@@ -26,11 +26,11 @@
 
 <p>Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em sistemas backend. Possuo experiência na criação de aplicações utilizando PHP, Laravel e Java, além de conhecimentos sólidos em infraestrutura, englobando o gerenciamento de servidores e ambientes Linux. Atualmente, aprofundo meus estudos no ecossistema Java e no versionamento com Git, aplicando meu aprendizado no desenvolvimento de projetos reais.</p>
 
+---
 
---------------------------------------------------------------------------------
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" width="100%" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" height="150" width="100%" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" width="48%"   alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/Gean-Bacinello/Gean-Bacinello/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" width="48%"  alt="languages graph" />
   <br><br>
   </div>
 
@@ -49,13 +49,11 @@
 
 ###
 
------------------------------------------------------------------------------------
+---
 
 <div style="clear: both;"></div>
 
-
 <h2 style="border-bottom: none; padding-bottom: 0;">Stack e ferramentas</h2>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=black" alt="Python" />
@@ -68,7 +66,6 @@
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=black" alt="VS Code" />
 </p>
 
-
 ---
 
 <div>
@@ -77,11 +74,10 @@
 <p>Sigo  <strong> estudando </strong> e testando ideias . Se algo aqui te parecer útil ou quiser sugerir melhoria, issue ou PR são bem-vindos.</p>
 </div>
 
-
 <p align="center">
   <a href="#" style="display: inline-block; padding: 0 22px;"><img src="assets/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;" /></a>
   <a href="#" style="display: inline-block; padding: 0 22px;"><img src="assets/github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle;" /></a>
   <a href="#" style="display: inline-block; padding: 0 22px;"><img src="assets/instagram.svg" alt="Instagram" width="20" height="20" style="vertical-align: middle;" /></a>
 </p>
 
-![Footer Preto](https://capsule-render.vercel.app/api?type=waving&height=110&color=000000&section=footer)
+![Footer Azul Claro Invertido](https://capsule-render.vercel.app/api?type=waving&height=110&color=88C0D0&text=Gean-Bacinello&fontSize=30&textColor=333333&desc=Developer%20%26%20Network%20Tech&descSize=12&section=footer&reversal=true)
