@@ -77,9 +77,17 @@
 </div>
 
 <p align="center">
-  <a href="www.linkedin.com/in/gean-corrêa-bacinello" style="display: inline-block; padding: 0 22px;"><img src="assets/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;" /></a>
-  <a href="https://github.com/Gean-Bacinello" style="display: inline-block; padding: 0 22px;"><img src="assets/github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle;" /></a>
-  <a href="" style="display: inline-block; padding: 0 22px;"><img src="assets/instagram.svg" alt="Instagram" width="20" height="20" style="vertical-align: middle;" /></a>
+  <a href="https://www.linkedin.com/in/gean-corrêa-bacinello" style="display: inline-block; padding: 0 22px;">
+    <img src="assets/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;" />
+  </a>
+  
+  <a href="https://github.com/Gean-Bacinello" style="display: inline-block; padding: 0 22px;">
+    <img src="assets/github.svg" alt="GitHub" width="20" height="20" style="vertical-align: middle;" />
+  </a>
+  
+  <a href="https://www.instagram.com/SEU_USUARIO_AQUI" style="display: inline-block; padding: 0 22px;">
+    <img src="assets/instagram.svg" alt="Instagram" width="20" height="20" style="vertical-align: middle;" />
+  </a>
 </p>
 
 ![Footer Azul Claro](https://capsule-render.vercel.app/api?type=waving&height=110&color=88C0D0&section=footer)
