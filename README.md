@@ -1,7 +1,7 @@
 ﻿![Header Preto](https://capsule-render.vercel.app/api?type=waving&height=110&color=000000)
 
 <p align="center">
-  <img src="assets/fundo.png" width="400" alt="Banner" />
+  <img src="assets/fundo.png" width="800" alt="Banner" />
 </p>
 
 
